@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "branchId": "brc_a5b22qai8pui8s137bgjc7zv",
+  "entries": [
+    {
+      "fileId": "4840952983d2a94f27deb00bf7247347345b60e3a96dc2aa41a6a50ecacdf1b6",
+      "versionId": "5212e03c691eede35c63292f530e01fc78eb0cc78b7f9138ea17d4df24b7c2c9",
+      "translations": {
+        "de": {
+          "updatedAt": "2026-07-09T16:27:30.224Z",
+          "fileName": "public/locales/de/common.json",
+          "postProcessHash": "b05d711aa4c93c55980e11ecd62942c7ae48e269cdebe3217058cc8a6b5e6cc5"
+        },
+        "ja": {
+          "updatedAt": "2026-07-09T16:27:30.227Z",
+          "fileName": "public/locales/ja/common.json",
+          "postProcessHash": "abb301c3c18d3c3030f983c339cb90128f9456c4df17e2751fe18fd7b2f84371"
+        },
+        "fr": {
+          "updatedAt": "2026-07-09T16:27:30.227Z",
+          "fileName": "public/locales/fr/common.json",
+          "postProcessHash": "e70a9e4826a69bcf66a60474d96328ff44764ff53a1843ad8afd071198a8fbb1"
+        }
+      },
+      "fileName": "public/locales/en/common.json",
+      "staged": false
+    }
+  ]
+}

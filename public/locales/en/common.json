@@ -1,0 +1,26 @@
+{
+  "app": {
+    "title": "General Translation Demo",
+    "subtitle": "Localization POC",
+    "description": "This app uses i18next for runtime translations and General Translation to generate locale files.",
+    "headline": "Headline example",
+    "headLineParagraph": "Short paragraphs like this are useful for testing translated copy in a realistic layout.",
+    "callToActionHeadline": "Call to action",
+    "callToActionParagraph": "Buttons, form fields, and supporting text can all be translated without changing the structure of the page.",
+    "namePlaceholder": "Name",
+    "nameInputPlaceholder": "Enter your name",
+    "emailPlaceholder": "Email",
+    "emailInputPlaceholder": "name@example.com",
+    "languagePickerLabel": "Choose language"
+  },
+  "nav": {
+    "home": "Home",
+    "settings": "Settings"
+  },
+  "buttons": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "submit": "Submit"
+  },
+  "welcome": "Welcome, {{name}}!"
+}

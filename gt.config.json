@@ -1,0 +1,15 @@
+{
+  "defaultLocale": "en",
+  "locales": [
+    "de",
+    "fr",
+    "ja"
+  ],
+  "files": {
+    "json": {
+      "include": [
+        "public/locales/[locale]/*.json"
+      ]
+    }
+  }
+}
