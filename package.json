@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "translate": "pnpm dlx --package=gt --package=@babel/types@7 gt translate",
-    "build": "pnpm run translate && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
