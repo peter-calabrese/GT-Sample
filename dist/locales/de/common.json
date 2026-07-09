@@ -1,0 +1,25 @@
+{
+  "app": {
+    "callToActionHeadline": "Call-to-Action",
+    "callToActionParagraph": "Schaltflächen, Formularfelder und Begleittexte lassen sich übersetzen, ohne die Seitenstruktur zu ändern.",
+    "description": "Diese App verwendet i18next für runtime translations und General Translation zum Erstellen von locale files.",
+    "emailInputPlaceholder": "name@example.com",
+    "emailPlaceholder": "E-Mail",
+    "headLineParagraph": "Kurze Absätze wie dieser eignen sich gut, um übersetzte Texte in einem realistischen Layout zu testen.",
+    "headline": "Beispielüberschrift",
+    "nameInputPlaceholder": "Namen eingeben",
+    "namePlaceholder": "Name",
+    "subtitle": "Lokalisierungs-POC",
+    "title": "General Translation Demo"
+  },
+  "buttons": {
+    "getStarted": "Jetzt starten",
+    "learnMore": "Mehr erfahren",
+    "submit": "Absenden"
+  },
+  "nav": {
+    "home": "Startseite",
+    "settings": "Einstellungen"
+  },
+  "welcome": "Willkommen, {{name}}!"
+}
